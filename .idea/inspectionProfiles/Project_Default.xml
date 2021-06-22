@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.message" />
+          <option value="telegram.ext" />
+          <option value="main.request" />
+          <option value="main.update" />
+          <option value="main.requests" />
+          <option value="main.urllib" />
+          <option value="main.imgdown" />
+          <option value="main.chat_id" />
+          <option value="main.webdriver" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
